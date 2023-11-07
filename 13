@@ -12,9 +12,10 @@ storage_data = {}  # Словарь для хранения полученных
 
 def check_correct_data(data):
     """Проверка корректности полученного пакета."""
-    if len(date) !=2 or None in date
+        if len(date) !=2 or None in date
     return False# Если длина пакета отлична от 2
-    # или один из элементов пакета имеет пустое значение -
+        else:
+        return True# или один из элементов пакета имеет пустое значение -
     # функция вернет False, иначе - True.
 
 
